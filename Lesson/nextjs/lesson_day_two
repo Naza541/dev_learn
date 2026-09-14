@@ -3,7 +3,7 @@
 3. Documentation Done
 4. Components  Done
 5. Rendering   Done
-6. Props 
+6. Props  Done
 
 
 
@@ -44,4 +44,4 @@ server component and client component
 Next Class
 package managers
 Pnpm npm yarn bun 
-Class components.
+Class components. [*]
